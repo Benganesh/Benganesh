@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Benganesh (Ganesh)
+- 👋 Hi, I’m @Beganesh (Ganesh)
 - 👀 I’m interested in Python,C,C++,HTML,CSS, Javascript, React JS, Node JS
 - 🌱 I’m currently learning Javascript, React JS and Node JS
 - 💞️ I’m looking to collaborate on projects which are usefull to build the good recreation world
